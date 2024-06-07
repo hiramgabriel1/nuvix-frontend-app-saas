@@ -1,7 +1,7 @@
 export default function Button (){
     return (
         <>
-            <button>gei</button>
+            <button>button example</button>
         </>
     )
 }

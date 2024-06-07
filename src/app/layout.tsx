@@ -6,7 +6,8 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Nuvix Inventory",
-  description: "A SaaS to manage your products with the best price",
+  description:
+    "Optimiza la gestión de tu inventario con Nuvix Inventory. Controla tus productos, reduce pérdidas y mejora la eficiencia de tu negocio con herramientas intuitivas y análisis en tiempo real. ¡Simplifica tu inventario hoy!",
 };
 
 export default function RootLayout({
